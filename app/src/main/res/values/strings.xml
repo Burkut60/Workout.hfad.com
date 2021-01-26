@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Workout.hfad.com</string>
     <string name="details_button">details_button</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="workout_title">workout_title</string>
+    <string name="workout_description">Workout_description</string>
 </resources>
